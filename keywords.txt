@@ -1,0 +1,31 @@
+###########################################
+# Syntax Coloring Map For MARET_Indicator
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+MARET_Indicator	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+begin	KEYWORD2
+click	KEYWORD2
+warning	KEYWORD2
+start	KEYWORD2
+pause	KEYWORD2
+continues	KEYWORD2
+stop	KEYWORD2
+timesup	KEYWORD2
+batteryLevel	KEYWORD2
+customBuzzer1	KEYWORD2
+customBuzzer2	KEYWORD2
+customBuzzer3	KEYWORD2
+customBattery	KEYWORD2
+customLed	KEYWORD2
+setColor	KEYWORD2
+setVoltage	KEYWORD2
+print	KEYWORD2
